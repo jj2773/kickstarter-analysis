@@ -1,14 +1,14 @@
 # Ideal Launch Dates and Goals for Kickstarter Plays
 
 ## Overview of Project
-Louise enjoys Theater and in particular plays.  After having been inspired by the Edinburgh Festival plays she has launched a kickstarter campaign for a play named Fever. The Fever campaign has done well in a short period of time.  Louise would like to know how other kickstarter campaigns for plays are doing.  
+Louise enjoys theater plays, and after having been inspired by the Edinburgh Festival plays, she has launched a kickstarter campaign for a play named Fever. The Fever campaign has done well in a short period of time, and Louise would like to know how other kickstarter campaigns for plays are doing.  
     
-In particular Louise would like to see how other plays have fared with selected launch dates and campaign goals.  Is there some goals that are just too much? Or are there times of the year that a campaign is more likely to succeed?  By using the Kickstarter dataset these questions are answered for Louise.  
+In particular Louise would like to see how other plays have fared with their selected launch dates and campaign goals.  Are there some goals that are just too much? Or are there times of the year that a campaign is more likely to succeed?  By using the Kickstarter dataset these questions are answered for Louise.  
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-May was chosen as a launch date for 111 campaigns with a 67% success rate making it the most popular and succesful launch month.  May is closely followed by June and July, however, most times of the year are at least around a 60% success rate excluding December.  December is a poor launch choice likley due to the holidays.  
+As seen in the chart below, May was chosen as a launch date for 111 campaigns with a 67% success rate making it the most popular and succesful launch month.  May is closely followed by June and July, however, most times of the year are at least around a 60% success rate excluding December.  December is a poor launch choice likley due to the holidays.  
 
 ![alt text](https://github.com/jj2773/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
