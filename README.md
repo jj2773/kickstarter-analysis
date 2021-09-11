@@ -13,7 +13,7 @@ As seen in the chart below, May was chosen as a launch date for 111 campaigns ma
 ![alt text](https://github.com/jj2773/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-The smaller the goal the more likely the campaign will succeed.  Campaigns keeping their goals under 5,000 had a success rate of around 75%.  While campaigns with goals between 5,000 and 15,000 had a 55% success rate.  Higher goals that 15,000 resulted in 50% failure rates or higher.
+The smaller the goal the more likely the campaign will succeed.  Campaigns keeping their goals under 5,000 had a success rate of around 75%.  While campaigns with goals between 5,000 and 15,000 had a 55% success rate.  Goals chosen higher than 15,000 resulted in 50% failure rates or higher.
 
 ![alt text](https://github.com/jj2773/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
