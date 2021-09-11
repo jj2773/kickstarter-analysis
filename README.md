@@ -10,7 +10,7 @@
 ### Analysis of Outcomes Based on Launch Date
 May was chosen as a launch date for 111 campaigns with a 67% success rate making it the most popular and succesful launch month.  May is closely followed by June and July, however, most times of the year are at least around a 60% success rate excluding December.  December is a poor launch choice likley due to the holidays.  
 
-![alt text](https://github.com/jj2773/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+![alt text](https://github.com/jj2773/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 The smaller the goal the more likely the campaign will succeed.  Campaigns keeping their goals under 5,000 had a success rate of around 75%.  While campaigns with goals between 5,000 and 15,000 had a 55% success rate.  Higher goals that 15,000 resulted in 50% failure rates or higher.
