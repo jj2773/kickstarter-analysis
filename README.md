@@ -1,9 +1,9 @@
 # Ideal Launch Dates and Goals for Kickstarter Plays
 
 ## Overview of Project
-    Louise enjoys Theater and in particular plays.  After having been inspired by the Edinburgh Festival plays she has launched a kickstarter campaign for a play named Fever. The Fever campaign has done well in a short period of time.  Louise would like to know how other kickstarter campaigns for plays are doing.  
+Louise enjoys Theater and in particular plays.  After having been inspired by the Edinburgh Festival plays she has launched a kickstarter campaign for a play named Fever. The Fever campaign has done well in a short period of time.  Louise would like to know how other kickstarter campaigns for plays are doing.  
     
-    In particular Louise would like to see how other plays have fared with selected launch dates and campaign goals.  Is there some goals that are just too much? Or are there times of the year that a campaign is more likely to succeed?  By using the Kickstarter dataset these questions are answered for Louise.  
+In particular Louise would like to see how other plays have fared with selected launch dates and campaign goals.  Is there some goals that are just too much? Or are there times of the year that a campaign is more likely to succeed?  By using the Kickstarter dataset these questions are answered for Louise.  
 
 ## Analysis and Challenges
 
