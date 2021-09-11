@@ -8,7 +8,7 @@ In particular Louise would like to see how other plays have fared with their sel
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-As seen in the chart below, May was chosen as a launch date for 111 campaigns with a 67% success rate making it the most popular and succesful launch month.  May is closely followed by June and July, however, most times of the year are at least around a 60% success rate excluding December.  December is a poor launch choice likley due to the holidays.  
+As seen in the chart below, May was chosen as a launch date for 111 campaigns making it the most popular and successful launch month.  May is closely followed by June and July, however, December is a poor launch choice likley due to the holidays.  
 
 ![alt text](https://github.com/jj2773/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
